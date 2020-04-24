@@ -1,0 +1,24 @@
+[{
+    "name": "Sunil KUmar",
+    "age": "23",
+    "email": "sk@gmail.com",
+    "gender": "Male"
+},
+{
+    "name": "Ravi",
+    "age": "25",
+    "email": "rv@gmail.com",
+    "gender": "Male"
+},
+{
+    "name": "Marc",
+    "age": "32",
+    "email": "mc@gmail.com",
+    "gender": "Male"
+},
+{
+    "name": "Simran",
+    "age": "21",
+    "email": "sim@gmail.com",
+    "gender": "Female"
+}]
